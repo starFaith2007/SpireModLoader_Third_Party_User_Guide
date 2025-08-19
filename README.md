@@ -1,2 +1,13 @@
-# SpireModLoader_Third_Party_User_Guide
-杀戮尖塔手机模组加载器第三方使用指南
+# 杀戮尖塔模组加载器第三方使用指南
+> 本文是由玩家撰写的第三方指南，旨在为新用户提供问题的解决思路、游玩模组加载器时可以使用的小技巧，我们并不提供实际的问题解决服务。
+
+## 在阅读本指南之前
+***指南文档永远需要你们来完善！*** 欢迎[提出issue](https://github.com/starFaith2007/SpireModLoader_Third_Party_User_Guide/issues "提出issue")或在蝶幼的粉丝群/模组加载器测试群联系不拖更（确信）。
+
+**推荐提前阅读：**[**提问的智慧**](https://lug.ustc.edu.cn/wiki/doc/smart-questions/ "提问的智慧")，阅读这篇文章不仅仅适用于本指南，更能使你探索互联网时更加从容！**但是注意，他们也不提供具体问题的解决，请不要骚扰他们。**
+
+## 目录
+1. [功能简介](https)
+2. [游玩方法](https)
+3. [玩家整理技巧（待投稿）](https)
+4. [排障指南（待投稿）](https)
