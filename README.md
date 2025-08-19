@@ -8,6 +8,6 @@
 
 ## 目录
 1. [功能简介](https://github.com/starFaith2007/SpireModLoader_Third_Party_User_Guide/wiki/%E5%8A%9F%E8%83%BD%E7%AE%80%E4%BB%8B%EF%BC%88%E5%BE%85%E7%BC%96%E5%86%99%EF%BC%89)
-2. [游玩方法](https)
-3. [玩家整理技巧（待投稿）](https)
-4. [排障指南（待投稿）](https)
+2. [游玩方法](https://github.com/starFaith2007/SpireModLoader_Third_Party_User_Guide/wiki/%E6%B8%B8%E7%8E%A9%E6%96%B9%E6%B3%95%EF%BC%88%E5%BE%85%E7%BC%96%E5%86%99%EF%BC%89)
+3. [玩家整理技巧（待投稿）](https://github.com/starFaith2007/SpireModLoader_Third_Party_User_Guide/wiki/%E6%8E%92%E9%9A%9C%E6%8C%87%E5%8D%97%EF%BC%88%E5%BE%85%E6%8A%95%E7%A8%BF%EF%BC%89)
+4. [排障指南（待投稿）](https://github.com/starFaith2007/SpireModLoader_Third_Party_User_Guide/wiki/%E7%8E%A9%E5%AE%B6%E6%95%B4%E7%90%86%E6%8A%80%E5%B7%A7%EF%BC%88%E5%BE%85%E6%8A%95%E7%A8%BF%EF%BC%89)
