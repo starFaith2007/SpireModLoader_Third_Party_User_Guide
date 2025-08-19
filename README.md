@@ -7,7 +7,7 @@
 **推荐提前阅读：**[**提问的智慧**](https://lug.ustc.edu.cn/wiki/doc/smart-questions/ "提问的智慧")，阅读这篇文章不仅仅适用于本指南，更能使你探索互联网时更加从容！**但是注意，他们也不提供具体问题的解决，请不要骚扰他们。**
 
 ## 目录
-1. [功能简介](https)
+1. [功能简介](https://github.com/starFaith2007/SpireModLoader_Third_Party_User_Guide/wiki/%E5%8A%9F%E8%83%BD%E7%AE%80%E4%BB%8B%EF%BC%88%E5%BE%85%E7%BC%96%E5%86%99%EF%BC%89)
 2. [游玩方法](https)
 3. [玩家整理技巧（待投稿）](https)
 4. [排障指南（待投稿）](https)
