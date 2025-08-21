@@ -6,7 +6,6 @@ toc:
     enabled: true
     h_min: 1
     h_max: 3
-webrick:
-  headers:
-    My-Header: 杀戮尖塔模组加载器第三方指南
-    My-Other-Header: 加载器指南
+    
+title: 杀戮尖塔模组加载器第三方指南
+description: 本文由玩家私自编写，和开发者没有关系哦 
